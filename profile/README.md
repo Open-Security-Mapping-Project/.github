@@ -155,6 +155,10 @@ I am not familiar yet with adding OSM coordinates into Wikidata but obviously th
 
 Littlesis ( https://littlesis.org/ ) is designed for "power mapping" and includes a lot of people like executives, political donors, obscure board members and investors as well as relational data like subsidiary businesses. It operates on a model similar to Wikipedia.
 
+# Goal: Documenting on Wikimedia Commons
+
+Wikimedia Commons is the appropriate place to upload photos that are public domain of the ICE facilities. ICE provides these at a low resolution. Once loaded there, they can be used legally in places like Wikipedia, Wikidata and so on.
+
 # Goal: Repos, project direction and task management
 
 Repositories could be created for each major goal (e.g. Wikipedia, Wikidata, and OSM contributions). Individual tasks could be managed via the Github issue queue. Other services may be better or spun off entirely. 

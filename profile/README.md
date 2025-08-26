@@ -46,7 +46,7 @@ Anyone could participate in this project, under the Code of Conduct noted below.
 
 * OpenStreetMap - ( https://www.openstreetmap.org/ ) - the world's largest open license mapping project
 * Wikidata ( https://www.wikidata.org/wiki/Wikidata:Main_Page ) - which provides relational, machine readable data, (including multi lingual link options). Awkward interface but
-* good for interconnecting 
+good for interconnecting 
 * Wikipedia ( https://en.wikipedia.org )
 * Wikimedia Commons for public domain photographs of facilities (ICE already publishes these in low resolution.)
 

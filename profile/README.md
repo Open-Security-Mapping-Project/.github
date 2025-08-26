@@ -16,7 +16,7 @@ can enable civil society to "spin up" sets of data, web pages, campaigns and so 
 
 We also want to provide better information for people with family and friends confined in these facilities. Serving them better can include contact info, URLs, multi-lingual information.
 
-Other layers of this system, the larger 287(g) jail screening detention network, associated with physical jail locations, (as well as the web of contractors and transportation systems9 is another
+Other layers of this system, the larger 287(g) jail screening detention network, associated with physical jail locations, (as well as the web of contractors and transportation systems) is another
 huge program area to factor in and provide better information about.
 
 Anyone could participate in this project, under the Code of Conduct noted below. Please be aware each website like OSM, Wikidata etc have their own usage, conduct and copyright policies.

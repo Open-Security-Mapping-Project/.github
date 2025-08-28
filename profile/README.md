@@ -43,6 +43,7 @@ Anyone could participate in this project, under the Code of Conduct noted below.
 * DOJ federal information pages on immigration court facilities (executive branch) which are often co-located at DHS detention facilities
 * WatchIce ( https://watchice.org/ ) by Lockdown Systems collective ( https://lockdown.systems/ ) has a lot of data including updated
 inmate counts at a large number of facilities (which we are not tracking).
+* ICE Detention Facilities Statistics ( https://detentionreports.com/ ) by Relevant Research ( https://relevant-research.com/ ) includes 189 facilities.
 
 # Places to improve data, add it, and increase quality
 

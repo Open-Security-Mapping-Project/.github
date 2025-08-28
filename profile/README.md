@@ -29,6 +29,8 @@ Anyone could participate in this project, under the Code of Conduct noted below.
 # Sources of information
 
 * ICE.GOV main detention center index and subpages ( https://www.ice.gov/detention-facilities )
+  * The "ICE Statistics" file here ( https://www.ice.gov/detain/detention-management#stats ) currently
+( https://www.ice.gov/doclib/detention/FY25_detentionStats08142025.xlsx ) - see the spreadsheet tab for "facilities FY25" has 180 listed facilities
 * The Global Detention Project information pages
 (e.g. https://www.globaldetentionproject.org/countries/americas/united-states/detention-centres/664/krome-north-service-processing-center )
 * the "Vera" project to track detention sites ( https://www.vera.org/ice-detention-trends )

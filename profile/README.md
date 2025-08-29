@@ -25,6 +25,7 @@ Anyone could participate in this project, under the Code of Conduct noted below.
 
 * ICE Detention Facilities Scraper - https://github.com/Open-Security-Mapping-Project/ice_detention_scraper - MIT license
 * Example data sets - https://github.com/Open-Security-Mapping-Project/example-data-sets - CC0 Public Domain license
+* [Goal: improving Wikipedia documentation](https://github.com/Open-Security-Mapping-Project/goal-wikipedia-documentation/tree/main) (detailed information)
 
 # Sources of information
 
@@ -175,6 +176,8 @@ Wikipedia it seems is a *good location* to add news report links, if they are re
 I am not familiar yet with adding OSM coordinates into Wikipedia but obviously that seems likely to be helpful.
 
 * https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources
+
+* **More tips in the new repo: [Goal: Improving wikimedia documentation](https://github.com/Open-Security-Mapping-Project/goal-wikipedia-documentation/tree/main)**
 
 # Goal: Documenting on Wikidata
 
